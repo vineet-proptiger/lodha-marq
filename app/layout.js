@@ -32,8 +32,8 @@ const nephilm = localFont({
 })
 
 export const metadata = {
-  title: 'Lodha Mark | Luxury 2, 3 & 4.5 BHK Deck Apartments — Matunga, Mumbai',
-  description: 'Lodha Mark — The tallest tower of Matunga. Offering premium 2 to 4.5 BHK deck apartments with world-class amenities and seamless connectivity to BKC & Lower Parel.',
+  title: 'Lodha Mark | Ultra-Luxury 3, 4 & 5 BHK Deck Apartments —Tardeo, South Mumbai Mumbai',
+  description: 'Lodha Mark — The tallest tower of Matunga. Offering premium 3 to 5 BHK deck apartments with world-class amenities and seamless connectivity to BKC & Lower Parel.',
 }
 
 export default function RootLayout({ children }) {
