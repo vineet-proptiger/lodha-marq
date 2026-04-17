@@ -11,7 +11,7 @@ const F_SANS = 'var(--font-sans), Open Sans, sans-serif'
 const F_JOST = 'var(--font-jost), Montserrat, sans-serif'
 const F_SERIF = 'var(--font-serif), Cormorant Garamond, serif'
 
-const PREVIEW_TEXT = `Set in the prestigious heart of Tardeo, Lodha Marq is a rare expression of refined living crafted for a select few. Rising elegantly amidst South Mumbai's most coveted neighbourhoods, this architectural landmark offers sweeping views of the Arabian Sea and the iconic city skyline. Designed with an uncompromising focus on privacy, space, and sophistication, every residence is a sanctuary of calm above the vibrant city below.`
+const PREVIEW_TEXT = `Set in the prestigious heart of Tardeo Mumbai, Lodha Marq is a rare expression of refined living crafted for a select few. Rising elegantly amidst South Mumbai's most coveted neighbourhoods, this architectural landmark offers sweeping views of the Arabian Sea and the iconic city skyline. Designed with an uncompromising focus on privacy, space, and sophistication, every residence is a sanctuary of calm above the vibrant city below.`
 
 const MORE_TEXT = ` Perfectly positioned, Lodha Marq places you minutes away from Pedder Road, Altamount Road, Mahalaxmi, and Lower Parel, ensuring seamless access to Mumbai's finest business, lifestyle, and social destinations. With grand proportions, expansive decks, and meticulously curated interiors, each home redefines what it means to live luxuriously in Mumbai.`
 
