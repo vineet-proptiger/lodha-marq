@@ -188,7 +188,7 @@ const Hero = ({ setIsOpen }) => {
                   fontFamily: F_JOST, fontSize: '30px',
                   fontWeight: '900', color: GOLD, margin: 0, lineHeight: 1,
                 }}>
-                  ₹ 10 Cr Onwards
+                  ₹ 10.4 Cr Onwards
                 </p>
               </div>
             </div>

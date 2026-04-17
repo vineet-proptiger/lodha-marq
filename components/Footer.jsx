@@ -20,7 +20,7 @@ const Footer = () => (
       </div>
       <p style={{ fontSize: '15px', color: '#bbb', fontFamily: F_SANS, lineHeight: 1.8, marginBottom: '32px', textAlign: 'justify' }}
         data-aos="fade-in" data-aos-delay="100">
-        Lodha Marq is an ultra-luxury residential development located in the prestigious heart of Tardeo, South Mumbai. Offering newly launched 3, 4 &amp; 5 Bed Residences starting from ₹10 Cr*, this architectural landmark rises elegantly amidst South Mumbai&apos;s most coveted neighbourhoods, offering sweeping views of the Arabian Sea and the iconic city skyline. With grand proportions, expansive decks, full-height french windows, and meticulously curated interiors — Lodha Marq is reserved for the truly distinguished, crafted for those seeking an uncompromising standard of luxury living in Mumbai.
+        Lodha Marq is an ultra-luxury residential development located in the prestigious heart of Tardeo, South Mumbai. Offering newly launched 3, 4 &amp; 5 Bed Residences starting from ₹10.4 Cr*, this architectural landmark rises elegantly amidst South Mumbai&apos;s most coveted neighbourhoods, offering sweeping views of the Arabian Sea and the iconic city skyline. With grand proportions, expansive decks, full-height french windows, and meticulously curated interiors — Lodha Marq is reserved for the truly distinguished, crafted for those seeking an uncompromising standard of luxury living in Mumbai.
       </p>
       {/* <div style={{ borderTop: '1px solid #333', marginBottom: '24px' }} /> */}
     </div>

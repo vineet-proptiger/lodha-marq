@@ -8,7 +8,7 @@ const units = [
   {
     type: "3 BHK",
     size: "On Request",
-    price: "₹ 10 Cr*",
+    price: "₹ 10.4 Cr*",
     oldPrice: null,
     btnText: "Get Cost Sheet",
     features: [
