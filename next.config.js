@@ -7,9 +7,10 @@ const nextConfig = {
   async rewrites() {
     return [
       {
-        source: '/the-terraces',
+        source: '/ultra-luxury-residences',
         destination: '/',
       },
+      
     ]
   },
 }
