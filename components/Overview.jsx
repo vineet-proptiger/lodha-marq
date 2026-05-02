@@ -303,7 +303,7 @@ const Overview = () => {
                   fontFamily: F_JOST, fontWeight: '800', fontSize: '16px',
                   color: '#fff', margin: '0 0 4px', letterSpacing: '-0.01em'
                 }}>
-                  Get Early Booking Advantage
+                  Get Early Booking Advantages
                 </h3>
                 <p style={{
                   fontFamily: F_SANS, fontSize: '12px',

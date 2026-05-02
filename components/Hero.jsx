@@ -84,7 +84,7 @@ const Hero = ({ setIsOpen }) => {
                 fontSize: '10px', fontWeight: '800', color: '#fff',
                 fontFamily: F_JOST, letterSpacing: '0.16em', textTransform: 'uppercase',
               }}>
-                Newly Launched
+                New Launch
               </span>
             </div>
 
@@ -138,7 +138,7 @@ const Hero = ({ setIsOpen }) => {
               </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-y-2 gap-x-8">
                 {[
-                  'Priority Access for Select Homebuyers',
+                  'Priority Access for Selectd Homebuyers',
                   'Special Pre-Launch Ownership Advantages',
                   'First Choice of Premium Residences',
                   'Limited-Time Invitation Benefits',
@@ -270,7 +270,7 @@ const Hero = ({ setIsOpen }) => {
               }}>
                 <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '8px' }}>
                   {[
-                    { label: 'Land', value: '10 Acres' },
+                    { label: 'Land Parcel', value: '10 Acres' },
                     { label: 'Floors', value: 'G + 38' },
                     { label: 'Possession', value: 'Oct 2026' },
                   ].map((s, i) => (

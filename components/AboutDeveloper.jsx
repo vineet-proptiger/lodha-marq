@@ -182,7 +182,7 @@ const AboutDeveloper = ({ setIsOpen }) => (
               </div>
               <div>
                 <h3 style={{ fontFamily: F_JOST, fontWeight: '800', fontSize: '18px', color: '#fff', margin: '0 0 4px', letterSpacing: '-0.01em' }}>
-                  Lodha
+                  Lodha Group
                 </h3>
 
               </div>
@@ -246,7 +246,7 @@ const AboutDeveloper = ({ setIsOpen }) => (
               Book Site Visit Today
             </h3>
             <p style={{ fontFamily: F_SANS, fontSize: '12px', color: 'rgba(255,255,255,0.6)', margin: 0 }}>
-              Register now to get the best deal &amp; book your site visit
+              Register now to get the best deals &amp; offers
             </p>
           </div>
 
